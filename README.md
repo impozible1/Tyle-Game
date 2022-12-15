@@ -9,3 +9,4 @@ A crappy, heavyweight, buggy tile game that I'm proud of.
 
 >### Version 1.0.1: 
 >Updated code so that animals can move freely without spreading grass.<br>
+>Also changed update delay.
