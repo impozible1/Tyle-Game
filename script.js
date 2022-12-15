@@ -187,4 +187,4 @@ render();
 setInterval (() => {
     update();
     render();
-}, 0);
+}, 500);
